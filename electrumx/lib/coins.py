@@ -2111,7 +2111,7 @@ class MonetaryUnit(Coin):
     RPC_PORT = 29947
     PEERS = []
 
-    class Audax(Coin):
+ class Audax(Coin):
     NAME = "Audax"
     SHORTNAME = "AUDAX"
     NET = "mainnet"
@@ -2126,4 +2126,4 @@ class MonetaryUnit(Coin):
     TX_COUNT = 275438
     TX_PER_BLOCK = 2
     RPC_PORT = 18201
-    PEERS = []
+    PEERS = []   
