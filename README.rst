@@ -16,4 +16,4 @@ For a future network with bigger blocks.
 Documentation
 =============
 
-See `readthedocs <https://electrumx.readthedocs.io/>`_.
+See `readthedocs <https://electrumx.readthedocs.io/>`_
