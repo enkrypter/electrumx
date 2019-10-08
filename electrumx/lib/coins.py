@@ -2111,7 +2111,7 @@ class MonetaryUnit(Coin):
     RPC_PORT = 29947
     PEERS = []
 
- class Audax(Coin):
+class Audax(Coin):
     NAME = "Audax"
     SHORTNAME = "AUDAX"
     NET = "mainnet"
